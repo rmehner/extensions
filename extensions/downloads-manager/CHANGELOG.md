@@ -1,5 +1,9 @@
 # Downloads Manager Changelog
 
+## [Add move last download item command] - 2025-12-18
+
+- Added the command `Move Latest Download`, which moves the latest download to the foremost active app.
+
 ## [Fixes] - 2025-12-10
 
 - Fixes [#23514](https://github.com/raycast/extensions/issues/23514)
