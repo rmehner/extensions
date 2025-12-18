@@ -1,6 +1,6 @@
 # Downloads Manager Changelog
 
-## [Add move last download item command] - 2025-12-18
+## [Add move last download item command] - {PR_MERGE_DATE}
 
 - Added the command `Move Latest Download`, which moves the latest download to the foremost active app.
 
